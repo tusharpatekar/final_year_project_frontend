@@ -1,0 +1,24 @@
+{
+    "navbar": {
+      "home": "मुख्यपृष्ठ",
+      "signup": "नोंदणी",
+      "login": "लॉगिन",
+      "about": "आमच्याबद्दल",
+  "logout": "बाहेर पडा",
+  "detect": "रोग शोधा"
+    },
+    "welcome": "TechSquad मध्ये स्वागत आहे!",
+    "login": {
+      "username": "वापरकर्ता नाव",
+      "password": "पासवर्ड",
+      "submit": "लॉगिन"
+    },
+    "signup": {
+      "header": "खाते तयार करा",
+      "email": "ईमेल",
+      "password": "पासवर्ड",
+      "confirmPassword": "पासवर्डची पुष्टी करा",
+      "submit": "नोंदणी"
+    }
+  }
+  
